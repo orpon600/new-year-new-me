@@ -1,0 +1,215 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", sans-serif;
+}
+
+/* banner style */
+.banner-header {
+  width: 100vw;
+  height: 98vh;
+  position: relative;
+  background-image: url("../images/banner/banner2.png");
+  background-size: cover;
+}
+.banner {
+  text-align: right;
+  align-items: center;
+  padding: 215px 230px 360px 965px;
+}
+.banner-title {
+  color: #181818;
+  font-size: 65px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+.banner-description {
+  color: #444343;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.banner-btn {
+  width: 155px;
+  height: 58px;
+  border-radius: 5px;
+  background: #fd6e0a;
+  border: 0;
+  color: aliceblue;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 15px 30px;
+  margin-top: 30px;
+}
+
+/* My failures of previous year */
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 100px 250px 0px 80px;
+}
+
+.about-image {
+  width: 451px;
+  height: 898px;
+}
+.about-title {
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+.about-description {
+  color: #444343;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 16px;
+}
+
+.description-numbar {
+  color: #444343;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.number {
+  margin-bottom: 10px;
+}
+
+.fa-solid {
+  color: #16d887;
+  margin-right: 10px;
+}
+
+/*  My Plans section   */
+
+.section-my {
+  align-items: center;
+  justify-content: space-around;
+  padding: 0px 250px 0px 80px;
+}
+
+.plans-title {
+  text-align: center;
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+  margin-left: 160px;
+}
+
+.plans-section {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin-top: 80px;
+  margin-left: 100px;
+  margin-bottom: 30px;
+}
+
+.icons-img {
+  width: 92.958px;
+  height: 92.958px;
+}
+
+.my-plan-title {
+  color: #151414;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.plan-description {
+  color: #737272;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+/* Awlays keep a positive mindset */
+
+.positive {
+  border-radius: 8px;
+  background: linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0) 100%),
+    url("../images/watch.png");
+  background-repeat: no-repeat;
+  width: 1140px;
+  height: 200px;
+  margin: 70px 250px 50px;
+  padding-left: 50px;
+  padding-top: 40px;
+}
+
+.positive-title {
+  color: aliceblue;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.btn {
+  padding: 15px 25px;
+  border: none;
+  color: #fd6e0a;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 5px;
+}
+
+/* footer style  */
+
+.future-footer {
+  background-color: #050101e0;
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+  padding: 80px 10px 150px;
+}
+
+.future-title {
+  color: #f8f8f8;
+  font-size: 45px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.future-paragap {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.future-emil {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.future-phone {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.social-link a {
+  margin-right: 20px;
+  width: 175px;
+  height: 46px;
+}
+
+.email {
+  background-color: #f4f2f2;
+  padding: 16px 35px;
+  border-radius: 5px;
+  border: 2px solid white;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.Subscribe-title {
+  color: white;
+  font-size: 35px;
+  font-weight: 600;
+  margin-bottom: 34px;
+}
