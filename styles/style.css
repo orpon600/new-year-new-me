@@ -18,12 +18,12 @@ body {
 }
 .banner {
   text-align: right;
-  align-items: center;
-  padding: 215px 230px 360px 965px;
+  justify-content: center;
+  padding: 200px 230px 360px 0px;
 }
 .banner-title {
   color: #181818;
-  font-size: 65px;
+  font-size: 60px;
   font-weight: 700;
   margin-bottom: 24px;
 }
@@ -108,7 +108,7 @@ body {
   justify-content: space-around;
   text-align: center;
   margin-top: 80px;
-  margin-left: 100px;
+  margin-left: 130px;
   margin-bottom: 30px;
 }
 
@@ -138,7 +138,7 @@ body {
   background-repeat: no-repeat;
   width: 1140px;
   height: 200px;
-  margin: 70px 250px 50px;
+  margin: 70px 100px 80px 180px;
   padding-left: 50px;
   padding-top: 40px;
 }
